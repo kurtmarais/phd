@@ -2,3 +2,4 @@
 
 This repository serves as a space for the artifacts yielded from this research.
 
+This research makes use of four topic modelling approaches to determine the latent topics within a corpus of subreddit text data.
